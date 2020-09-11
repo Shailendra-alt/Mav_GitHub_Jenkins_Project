@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29102" started-at="2020-09-11T12:02:18 IST" finished-at="2020-09-11T12:02:47 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29102" started-at="2020-09-11T12:02:18 IST" finished-at="2020-09-11T12:02:47 IST">
+      <class name="maven_GitHub_Jenkins.Jenkins_Demo">
+        <test-method status="PASS" signature="BLaunch()[pri:0, instance:maven_GitHub_Jenkins.Jenkins_Demo@7f13d6e]" name="BLaunch" duration-ms="28928" started-at="2020-09-11T12:02:18 IST" finished-at="2020-09-11T12:02:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BLaunch -->
+      </class> <!-- maven_GitHub_Jenkins.Jenkins_Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
